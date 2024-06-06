@@ -1,20 +1,16 @@
+<p align="center">
+  <img width="1200" height="200" src="https://github-profile-trophy.vercel.app/?username=Willian2003&no-frame=true&theme=radical">
+</p>
+
+<div align="center">
+
 ## Hello, I'm Willian. 👋
 
-<!--
-**Willian2003/Willian2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Willian2003&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 48%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian2003&layout=compact&theme=transparent&hide=cmake,makefile" alt="Top Languages" style="width: 36%;">
+</div>
+
+<div> 
+  <a href="https://www.linkedin.com/in/willianc01/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
 </div>
