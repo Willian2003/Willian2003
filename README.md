@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Willian. 👋
 
 <!--
 **Willian2003/Willian2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Willian2003&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian2003&layout=compact&theme=transparent&hide=cmake,makefile" alt="Top Languages" style="width: 36%;">
+</div>
